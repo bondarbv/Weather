@@ -15,6 +15,7 @@
 		4735A6642827F1B8007D9401 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4735A6632827F1B8007D9401 /* .gitignore */; };
 		4735A6682827F235007D9401 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4735A6672827F235007D9401 /* Model.swift */; };
 		4735A66A2827F24F007D9401 /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4735A6692827F24F007D9401 /* WeatherView.swift */; };
+		4735A66C282832A3007D9401 /* WeatherViewController + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4735A66B282832A3007D9401 /* WeatherViewController + Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4735A6632827F1B8007D9401 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		4735A6672827F235007D9401 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		4735A6692827F24F007D9401 /* WeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
+		4735A66B282832A3007D9401 /* WeatherViewController + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WeatherViewController + Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		4735A6662827F20D007D9401 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				4735A66B282832A3007D9401 /* WeatherViewController + Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				4735A66A2827F24F007D9401 /* WeatherView.swift in Sources */,
 				4735A6512827F17F007D9401 /* WeatherViewController.swift in Sources */,
 				4735A64D2827F17F007D9401 /* AppDelegate.swift in Sources */,
+				4735A66C282832A3007D9401 /* WeatherViewController + Extension.swift in Sources */,
 				4735A64F2827F17F007D9401 /* SceneDelegate.swift in Sources */,
 				4735A6682827F235007D9401 /* Model.swift in Sources */,
 			);
